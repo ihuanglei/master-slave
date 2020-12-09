@@ -10,7 +10,7 @@ succ() {
 }
 
 usage() {
-    echo "build.sh <name> <ip>"
+    echo "slave.sh <name> <ip>"
     exit 1
 }
 
